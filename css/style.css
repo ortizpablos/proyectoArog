@@ -23,8 +23,13 @@ main{
     height: 70vh;
     width: 90%;
     margin: auto;
-    
+
 }
 footer{
     height: 10vh;
+}
+p{
+    text-align: justify;
+    color: aqua;
+    font-size: 25px;
 }
